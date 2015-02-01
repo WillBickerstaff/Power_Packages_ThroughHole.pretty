@@ -1,6 +1,5 @@
 (module STK672-040-E (layer F.Cu) (tedit 54C4A8B1)
   (descr http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)
-  (clearance 0.25)
   (fp_text reference STK672-040-E (at 20.828 -4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

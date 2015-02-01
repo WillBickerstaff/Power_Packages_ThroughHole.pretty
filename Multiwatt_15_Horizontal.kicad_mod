@@ -1,6 +1,5 @@
 (module Multiwatt_15_Horizontal (layer F.Cu) (tedit 54C4A7CA)
   (descr http://www.bdtic.com/DownLoad/ST/CD00004656.pdf)
-  (clearance 0.25)
   (fp_text reference Multiwatt_15_Horizontal (at 8.636 -24.384) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

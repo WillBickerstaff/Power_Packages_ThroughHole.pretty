@@ -1,6 +1,5 @@
 (module Multiwatt_15_Vertical (layer F.Cu) (tedit 54C4A846)
   (descr http://www.icbuy.com/education/package/mode_name/upload/education/package/061106/1737460368586001162805866.pdf)
-  (clearance 0.25)
   (fp_text reference Multiwatt_15_Vertical (at 8.636 -10.668) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
