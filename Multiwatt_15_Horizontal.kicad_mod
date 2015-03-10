@@ -48,7 +48,7 @@
   (pad 13 thru_hole oval (at 15.24 0) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole oval (at 16.51 -2.54) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
   (pad 15 thru_hole oval (at 17.78 0) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
-  (model Power_Packages_ThroughHole/Multiwatt15_Horizontal.wrl
+  (model Power_Packages_ThroughHole/Multiwatt_15_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
