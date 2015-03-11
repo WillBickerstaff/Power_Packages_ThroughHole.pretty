@@ -1,9 +1,9 @@
 (module Multiwatt_15_Horizontal (layer F.Cu) (tedit 54C4A7CA)
   (descr http://www.bdtic.com/DownLoad/ST/CD00004656.pdf)
-  (fp_text reference Multiwatt_15_Horizontal (at 8.636 -24.384) (layer F.SilkS)
+  (fp_text reference REF** (at 8.636 -24.384) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 21.336 -3.556) (layer F.SilkS)
+  (fp_text value Multiwatt_15_Horizontal (at 21.336 -3.556) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.67 -23.37) (end -0.93 -20.76) (layer F.SilkS) (width 0.15))
@@ -48,7 +48,7 @@
   (pad 13 thru_hole oval (at 15.24 0) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole oval (at 16.51 -2.54) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
   (pad 15 thru_hole oval (at 17.78 0) (size 1.524 1.824) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
-  (model Power_Packages_ThroughHole/Multiwatt_15_Horizontal.wrl
+  (model Power_Packages_ThroughHole.3dshapes/Multiwatt_15_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,9 +1,9 @@
 (module STK672-040-E (layer F.Cu) (tedit 54C4A8B1)
   (descr http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)
-  (fp_text reference STK672-040-E (at 20.828 -4.064) (layer F.SilkS)
+  (fp_text reference REF** (at 20.828 -4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 44.704 7.62) (layer F.SilkS)
+  (fp_text value STK672-040-E (at 44.704 7.62) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6 -3.4) (end 48 -3.4) (layer F.CrtYd) (width 0.05))
@@ -36,7 +36,7 @@
   (pad 20 thru_hole oval (at 38 0) (size 1.324 1.824) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 21 thru_hole oval (at 40 0) (size 1.324 1.824) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 22 thru_hole oval (at 42 0) (size 1.324 1.824) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
-  (model Power_Packages_ThroughHole/STK672-040-E.wrl
+  (model Power_Packages_ThroughHole.3dshapes/STK672-040-E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
